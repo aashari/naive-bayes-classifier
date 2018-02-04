@@ -2,9 +2,12 @@
 
 Naive Bayes Classifier is a simple probabilistic classifiers based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
 
+Logic and algorithm guided by Mrs. Lili Ayu Wulandhari, S.Si., M.Sc., Ph.D.
+
 ### What can I use this for?
-  - Classify Twitter user mood based on his/her tweets
-  - Classify News topics
+  - Sentiment analysis
+  - Document classify
+  - Forecasting
   - And many things
 
 ### Naive Bayes Classifier Formula
